@@ -1,5 +1,6 @@
-### Hi there 👋
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[![Just coding](https://i.gifer.com/913V.gif "My profile on Facebook")](https://www.facebook.com/yurkote)
+### Hi there, I'm Yurkote 👋
+<!-- [![Just coding](https://i.giphy.com/media/PiQejEf31116URju4V/giphy.webp "My profile on Facebook")](https://www.facebook.com/yurkote) -->
+[![Just coding](https://thumbs.gfycat.com/BronzeEnchantedHyracotherium-size_restricted.gif "My profile on Facebook")](https://www.facebook.com/yurkote)
 
 
 
