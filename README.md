@@ -32,13 +32,13 @@ Front-End Developer from Ukraine <img src="http://yktua.chost.com.ua/github/desi
 <div align="center">
 
   <a href="https://github.com/yurkote/peachbubble/">
-    <img width="278px" src="https://github-readme-stats.vercel.app/api/pin/?username=yurkote&repo=peachbubble&theme=dracula&hide_border=true" alt="github-readme-stats"/>
+    <img width="278px" src="https://github-readme-stats-yurkote.vercel.app/api/pin/?username=yurkote&repo=peachbubble&theme=dracula&hide_border=true" alt="github-readme-stats"/>
   </a>
   <a href="https://github.com/yurkote/FarmInvest/">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=yurkote&repo=FarmInvest&theme=dracula&hide_border=true" alt="github-readme-stats"/>
+    <img width="278" src="https://github-readme-stats-yurkote.vercel.app/api/pin/?username=yurkote&repo=FarmInvest&theme=dracula&hide_border=true" alt="github-readme-stats"/>
   </a>
   <a href="https://github.com/yurkote/todo-list-firebase/">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=yurkote&repo=todo-list-firebase&theme=dracula&hide_border=true" alt="github-readme-stats"/>
+    <img width="278" src="https://github-readme-stats-yurkote.vercel.app/api/pin/?username=yurkote&repo=todo-list-firebase&theme=dracula&hide_border=true" alt="github-readme-stats"/>
   </a>
 
 </div>
@@ -79,6 +79,6 @@ Front-End Developer from Ukraine <img src="http://yktua.chost.com.ua/github/desi
 ### :fire: My Stats :
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="yurkote's streak" src="https://streak-stats.demolab.com/?user=yurkote&theme=dracula&hide_border=true" width="415" height="180px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="yurkote's streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurkote&layout=compact&theme=dracula&hide_border=true" width="415" height="180px"/></a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="yurkote's streak" src="https://streak-stats-yurkote.herokuapp.com/?user=yurkote&theme=dracula&hide_border=true" width="415" height="180px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="yurkote's streak" src="https://github-readme-stats-yurkote.vercel.app/api/top-langs/?username=yurkote&layout=compact&theme=dracula&hide_border=true" width="415" height="180px"/></a>
 </p>
