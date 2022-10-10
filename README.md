@@ -7,7 +7,7 @@ Front-End Developer from Ukraine <img src="http://yktua.chost.com.ua/github/desi
   </a>
 </div>
 
-<!-- Social icons section -->
+<!-- Social icons section from https://shields.io/ -->
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/yurkote/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25px" width="100px"/>
@@ -26,10 +26,23 @@ Front-End Developer from Ukraine <img src="http://yktua.chost.com.ua/github/desi
   </a>
 </div>
 
+## 📘 My top projects:
+<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 
-## 🛠️ My favorite tools
+<div align="center">
+  <a href="https://github.com/yurkote/peachbubble/">
+    <img width="278px" src="https://github-readme-stats.vercel.app/api/pin/?username=yurkote&repo=peachbubble&theme=dracula&hide_border=true" alt="github-readme-stats"/>
+  </a>
+  <a href="https://github.com/yurkote/FarmInvest/">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=yurkote&repo=FarmInvest&theme=dracula&hide_border=true" alt="github-readme-stats"/>
+  </a>
+  <a href="https://github.com/yurkote/todo-list-firebase/">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=yurkote&repo=todo-list-firebase&theme=dracula&hide_border=true" alt="github-readme-stats"/>
+  </a>
+</div>
 
-### 👨‍💻 Programming and markup languages  :
+
+## 🛠️ Languages and Tools:
 
 <div>
   <a href="https://github.com/search?q=user%3Ayurkote+language%3Ajavascript">
@@ -41,14 +54,7 @@ Front-End Developer from Ukraine <img src="http://yktua.chost.com.ua/github/desi
   <a href="https://github.com/search?q=user%3Ayurkote+language%3Acss">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50px" />
   </a>
-</div>
-
-##
-
-### 🧰 Frameworks and libraries:
-
-<div>
-  <a href="#">
+  <a href="https://github.com/search?q=user%3Ayurkote+language%3Ajavascript">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50px" />
   </a>
   <a href="#">
@@ -57,13 +63,6 @@ Front-End Developer from Ukraine <img src="http://yktua.chost.com.ua/github/desi
   <a href="#">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50px" />
   </a>
-</div>
-
-##
-
-### 💻 Software and tools :
-
-<div>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg" width="50px" /></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" width="50px" /></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" width="50px" /></a>
@@ -73,10 +72,11 @@ Front-End Developer from Ukraine <img src="http://yktua.chost.com.ua/github/desi
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px" /></a>
 </div>
 
-##
+---
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yurkote&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurkote&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="yurkote's streak" src="https://streak-stats.demolab.com/?user=yurkote&theme=dracula&hide_border=true" height="180px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="yurkote's streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurkote&layout=compact&theme=dracula&hide_border=true" height="180px"/></a>
+</p>
