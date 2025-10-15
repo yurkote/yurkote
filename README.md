@@ -85,6 +85,6 @@ Front-End Developer from Ukraine <img src="http://yktua.chost.com.ua/github/desi
 ### :fire: My Stats :
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="yurkote's streak" src="https://streak-stats-yurkote.herokuapp.com/?user=yurkote&theme=dracula&hide_border=true" width="415" height="180px"/></a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="yurkote's streak" src="http://193.0.61.190:8085/?user=yurkote&theme=dracula&hide_border=true" width="415" height="180px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="yurkote's streak" src="https://readme-stats-yurkote.vercel.app/api/top-langs/?username=yurkote&layout=compact&theme=dracula&hide_border=true" width="415" height="180px"/></a>
 </p>
