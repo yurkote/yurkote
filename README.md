@@ -1,6 +1,6 @@
 <div id="help" align="center">
   <a target="_blank" href="https://u24.gov.ua/">
-    <img src="https://yktua.chost.com.ua/img/sun.jpg" width="830px" alt="link how to help ukraine"/>
+    <img src="http://yktua.chost.com.ua/github/design/ykt/U24.jpg" width="830px" height="50px" alt="link how to help ukraine"/>
   </a>
 </div>
 
